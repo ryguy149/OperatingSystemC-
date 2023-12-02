@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(310,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(330,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(339,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(365,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(374,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(383,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(399,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(409,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(419,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(445,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(452,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(459,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(466,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(473,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(578,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(584,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(590,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(603,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(610,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(617,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(637,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ryan-PC\source\repos\VendingMachine\VendingMachine\main.cpp(643,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  VendingMachine.vcxproj -> C:\Users\Ryan-PC\source\repos\VendingMachine\Debug\VendingMachine.exe
